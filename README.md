@@ -6,7 +6,7 @@
 
 > [!TIP]
 > ***usage example ---***
-> ``<div class="flair flair--1"></div>``
+> ``<div class="flair flair--1"></div>`` *or* 
 > ``<div class="box red"></div>``
 
 <div align="center">
